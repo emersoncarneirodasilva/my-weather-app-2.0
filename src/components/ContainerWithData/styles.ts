@@ -1,7 +1,7 @@
 import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
-  WeatherForecastContainer: {
+  weatherForecastContainer: {
     marginTop: 40,
     marginBottom: 20,
     borderTopStartRadius: 35,
@@ -15,7 +15,7 @@ export const styles = StyleSheet.create({
     borderRadius: 10,
     backgroundColor: "#f3f3f399",
   },
-  HourAndWeeklyForecastContainer: {
+  hourAndWeeklyForecastContainer: {
     flexDirection: "row",
     justifyContent: "space-between",
     marginHorizontal: 20,

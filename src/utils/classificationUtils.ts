@@ -1,4 +1,3 @@
-// src/utils/classificationUtils.ts
 export enum UVLevel {
   Low = "Baixo",
   Moderate = "Moderado",

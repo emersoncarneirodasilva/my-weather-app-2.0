@@ -4,6 +4,7 @@ import { styles } from "./styles";
 import HourlyForecast from "../HourlyForecast";
 import WeeklyForecast from "../WeeklyForecast";
 import CurrentInformation from "../CurrentInformation";
+import AirQuality from "../AirQuality";
 
 type ForecastType = "hourly" | "weekly";
 
@@ -24,13 +25,13 @@ export default function ContainerWithData({
   return (
     <View
       style={[
-        styles.WeatherForecastContainer,
+        styles.weatherForecastContainer,
         { backgroundColor: `rgba(197, 197, 197, ${containerOpacity})` },
       ]}
     >
       <View style={styles.littleLine} />
 
-      <View style={styles.HourAndWeeklyForecastContainer}>
+      <View style={styles.hourAndWeeklyForecastContainer}>
         <TouchableOpacity onPress={() => handleForecast("hourly")}>
           <Text
             style={[
@@ -63,6 +64,8 @@ export default function ContainerWithData({
       {selectedForecast === "hourly" ? <HourlyForecast /> : <WeeklyForecast />}
 
       <CurrentInformation />
+
+      <AirQuality />
     </View>
   );
 }
