@@ -1,4 +1,4 @@
-import React, { useState, useRef } from "react";
+import { useState, useRef } from "react";
 import {
   SafeAreaView,
   ScrollView,
@@ -8,14 +8,14 @@ import {
 } from "react-native";
 import { useFonts } from "@expo-google-fonts/poppins";
 import styles from "./styles";
-import { POPPINS_FONTS } from "../constants/fonts";
 import { useWeather } from "../contexts/WeatherContext";
+import { useBackgroundImage } from "../hooks/useBackgroundImage";
+import { POPPINS_FONTS } from "../constants/fonts";
 import { calculateOpacity } from "../utils/opacityUtils";
 import Loading from "../components/Loading";
 import Search from "../components/Search";
 import CurrentWeatherDisplay from "../components/CurrentWeatherDisplay";
 import ContainerWithData from "../components/ContainerWithData";
-import { useBackgroundImage } from "../hooks/useBackgroundImage";
 
 export default function Index() {
   const { weatherData, loading } = useWeather();
