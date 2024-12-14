@@ -21,6 +21,7 @@ export interface WeatherData {
       text: string;
       icon: string;
     };
+    is_day: 0 | 1;
     wind_kph: number;
     wind_degree: number;
     wind_dir: string;
