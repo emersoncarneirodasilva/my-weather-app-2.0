@@ -150,30 +150,19 @@ Link do Projeto: [https://github.com/emersoncarneirodasilva/my-weather-app-2.0](
 
 ## Imagens
 
-![01](https://github.com/user-attachments/assets/0aefe327-1d42-4e47-a605-085a57962ab8)
-
-![02](https://github.com/user-attachments/assets/e68b546a-5590-4546-bb4e-77e66d913772)
-
-![03](https://github.com/user-attachments/assets/47a0ebcc-f985-43a9-aae9-48ab763520b7)
-
-![04](https://github.com/user-attachments/assets/d67e85a8-57ec-4b58-bf56-f234b3f2c422)
-
-![05](https://github.com/user-attachments/assets/a8610c82-794d-4fb2-9b1a-da24a94e445d)
-
-![06](https://github.com/user-attachments/assets/712b5d02-c771-4ce2-bd37-7f326a97bc02)
-
-![07](https://github.com/user-attachments/assets/17796505-2526-4e90-a26d-e8218f675bfd)
-
-![08](https://github.com/user-attachments/assets/f53e177f-b827-4e2f-8ba4-3ba64696dc10)
-
-![09](https://github.com/user-attachments/assets/a98ca564-adbe-4fe4-a24f-2fdab9942fe2)
-
-![10](https://github.com/user-attachments/assets/f038777e-2b97-4756-a9a4-6e5d80510680)
-
-![11](https://github.com/user-attachments/assets/49a2f46c-a116-4db1-9279-242f0c3d6609)
-
-![12](https://github.com/user-attachments/assets/7cb46a49-a5bc-495e-906d-44574b7924f6)
-
-![13](https://github.com/user-attachments/assets/827fa57c-6f39-4585-aaf9-79f2c83a8dcb)
-
-![14](https://github.com/user-attachments/assets/8e1b6256-0983-4c03-b82b-5b0eff86f524)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; row-gap: 30px;">
+    <img src="https://github.com/user-attachments/assets/0aefe327-1d42-4e47-a605-085a57962ab8" width="45%" alt="Image 01" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/e68b546a-5590-4546-bb4e-77e66d913772" width="45%" alt="Image 02" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/47a0ebcc-f985-43a9-aae9-48ab763520b7" width="45%" alt="Image 03" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/d67e85a8-57ec-4b58-bf56-f234b3f2c422" width="45%" alt="Image 04" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/a8610c82-794d-4fb2-9b1a-da24a94e445d" width="45%" alt="Image 05" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/712b5d02-c771-4ce2-bd37-7f326a97bc02" width="45%" alt="Image 06" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/17796505-2526-4e90-a26d-e8218f675bfd" width="45%" alt="Image 07" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/f53e177f-b827-4e2f-8ba4-3ba64696dc10" width="45%" alt="Image 08" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/a98ca564-adbe-4fe4-a24f-2fdab9942fe2" width="45%" alt="Image 09" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/f038777e-2b97-4756-a9a4-6e5d80510680" width="45%" alt="Image 10" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/49a2f46c-a116-4db1-9279-242f0c3d6609" width="45%" alt="Image 11" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/7cb46a49-a5bc-495e-906d-44574b7924f6" width="45%" alt="Image 12" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/827fa57c-6f39-4585-aaf9-79f2c83a8dcb" width="45%" alt="Image 13" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://github.com/user-attachments/assets/8e1b6256-0983-4c03-b82b-5b0eff86f524" width="45%" alt="Image 14" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
