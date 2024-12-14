@@ -115,5 +115,44 @@ O projeto utiliza ferramentas modernas para garantir desempenho, escalabilidade 
 ## Como Instalar e Executar 🏃‍♂️
 
 1. **Clone este repositório**:
+   Clone o repositório para sua máquina local usando o Git:
    ```bash
    git clone https://github.com/seu-usuario/weather-app.git
+Navegue até a pasta do projeto: Acesse a pasta do projeto que você acabou de clonar:
+
+bash
+Copiar código
+cd weather-app
+Instale as dependências: Use o npm ou yarn para instalar as dependências do projeto.
+
+Usando npm:
+bash
+Copiar código
+npm install
+Usando yarn:
+bash
+Copiar código
+yarn install
+Inicie o aplicativo: Agora que as dependências estão instaladas, você pode iniciar o aplicativo.
+
+Usando npm:
+bash
+Copiar código
+npm start
+Usando yarn:
+bash
+Copiar código
+yarn start
+Esse comando abrirá o Expo Developer Tools no seu navegador. Você pode escanear o código QR com o aplicativo Expo Go em seu dispositivo ou rodar no emulador de sua preferência.
+
+Rodando no emulador (opcional): Caso queira rodar o aplicativo em um emulador Android ou iOS:
+
+Para Android:
+bash
+Copiar código
+npx react-native run-android
+Para iOS (somente no macOS):
+bash
+Copiar código
+npx react-native run-ios
+Aplicativo rodando: Agora você pode ver o aplicativo em funcionamento em seu dispositivo ou emulador.
