@@ -150,7 +150,7 @@ Link do Projeto: [https://github.com/emersoncarneirodasilva/my-weather-app-2.0](
 
 ## Imagens
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; row-gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; row-gap: 30px;">
     <img src="https://github.com/user-attachments/assets/0aefe327-1d42-4e47-a605-085a57962ab8" width="45%" alt="Image 01" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <img src="https://github.com/user-attachments/assets/e68b546a-5590-4546-bb4e-77e66d913772" width="45%" alt="Image 02" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <img src="https://github.com/user-attachments/assets/47a0ebcc-f985-43a9-aae9-48ab763520b7" width="45%" alt="Image 03" style="margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
