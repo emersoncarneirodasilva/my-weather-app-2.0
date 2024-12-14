@@ -4,6 +4,14 @@
 
 **My Weather App 2.0** é um aplicativo mobile desenvolvido com React Native e Expo, que fornece uma experiência rica e intuitiva para visualização de informações meteorológicas.
 
+## API Utilizada
+
+- **WeatherAPI.com** (Free Weather API)
+  - Fonte de dados meteorológicos em tempo real
+  - Cobertura global de previsões e condições climáticas
+  - Endpoint para dados atuais, previsão horária e semanal
+  - Informações adicionais como qualidade do ar
+
 ## Funcionalidades
 
 - **Exibição do Tempo Atual**
@@ -42,7 +50,9 @@
 - React Native
 - Expo
 - TypeScript
+- React Navigation
 - Context API
+- WeatherAPI.com
 
 ## Pré-requisitos
 
@@ -50,16 +60,29 @@
 - npm ou Yarn
 - Expo CLI
 - Dispositivo móvel ou emulador
+- Conta gratuita no WeatherAPI.com (para obtenção de API Key)
 
 ## Instalação
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/emersoncarneirodasilva/my-weather-app-2.0
-cd my-weather-app-2.0
+git clone https://github.com/emersoncarneirodasilva/my-weather-app-2.0.git
+cd weather-app
 ```
 
-2. Instale as dependências
+2. Obtenha sua API Key
+- Acesse [WeatherAPI.com](https://www.weatherapi.com/)
+- Crie uma conta gratuita
+- Copie sua API Key
+
+3. Configure as variáveis de ambiente
+- Crie um arquivo `.env` na raiz do projeto
+- Adicione sua API Key:
+```
+WEATHER_API_KEY=sua_api_key_aqui
+```
+
+4. Instale as dependências
 ```bash
 # Com npm
 npm install
@@ -113,38 +136,44 @@ yarn start
 4. Push para a branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
 
+## Limitações da API Gratuita
+
+- Número limitado de chamadas por mês
+- Algumas funcionalidades avançadas podem requerer plano pago
+- Possível latência nas atualizações de dados
+
 ## Contato
 
-Emerson Carneiro da Silva - mersiocarneiro87@gmail.com
+[Seu Nome] - [Seu Email]
 
-Link do Projeto: [https://github.com/emersoncarneirodasilva/my-weather-app-2.0](https://github.com/emersoncarneirodasilva/my-weather-app-2.0)
+Link do Projeto: [[https://github.com/seu-usuario/weather-app](https://github.com/seu-usuario/weather-app)](https://github.com/emersoncarneirodasilva/my-weather-app-2.0)
 
-## Imagens
+##Imagens
 
-![01](https://github.com/user-attachments/assets/16f75e18-d4a6-432f-ac2b-7907c8c12678)
+![01](https://github.com/user-attachments/assets/0aefe327-1d42-4e47-a605-085a57962ab8)
 
-![02](https://github.com/user-attachments/assets/b6a3ed4f-189e-4b7a-9741-59e3b2e43eca)
+![02](https://github.com/user-attachments/assets/e68b546a-5590-4546-bb4e-77e66d913772)
 
-![03](https://github.com/user-attachments/assets/604c04e7-16e7-443a-9a9e-1dd508c9ee8c)
+![03](https://github.com/user-attachments/assets/47a0ebcc-f985-43a9-aae9-48ab763520b7)
 
-![04](https://github.com/user-attachments/assets/8104fc7c-5a7d-4eb4-8f57-13f8f6b274e9)
+![04](https://github.com/user-attachments/assets/d67e85a8-57ec-4b58-bf56-f234b3f2c422)
 
-![05](https://github.com/user-attachments/assets/3864cdb6-144e-451a-bdd0-dd6b7e6ea3b3)
+![05](https://github.com/user-attachments/assets/a8610c82-794d-4fb2-9b1a-da24a94e445d)
 
-![06](https://github.com/user-attachments/assets/11333ed2-9d4e-4bde-b6a7-0c97ecb16bb6)
+![06](https://github.com/user-attachments/assets/712b5d02-c771-4ce2-bd37-7f326a97bc02)
 
-![07](https://github.com/user-attachments/assets/192914ef-59dd-49d4-8dcd-2a5ea1262c76)
+![07](https://github.com/user-attachments/assets/17796505-2526-4e90-a26d-e8218f675bfd)
 
-![08](https://github.com/user-attachments/assets/4b9a72d2-c14a-44ce-a091-8123044fe721)
+![08](https://github.com/user-attachments/assets/f53e177f-b827-4e2f-8ba4-3ba64696dc10)
 
-![09](https://github.com/user-attachments/assets/47c390fc-5add-4cba-afdb-8b1339328555)
+![09](https://github.com/user-attachments/assets/a98ca564-adbe-4fe4-a24f-2fdab9942fe2)
 
-![10](https://github.com/user-attachments/assets/b03f749d-b106-4397-91d4-d382dd40df1b)
+![10](https://github.com/user-attachments/assets/f038777e-2b97-4756-a9a4-6e5d80510680)
 
-![11](https://github.com/user-attachments/assets/6f8089bc-1d34-4939-a546-11e58a9f4714)
+![11](https://github.com/user-attachments/assets/49a2f46c-a116-4db1-9279-242f0c3d6609)
 
-![12](https://github.com/user-attachments/assets/7b47d323-44a0-40e1-8f53-c8016482e8e7)
+![12](https://github.com/user-attachments/assets/7cb46a49-a5bc-495e-906d-44574b7924f6)
 
-![13](https://github.com/user-attachments/assets/80d3e9bd-8ead-4b81-b42f-55e8a5aa3ba2)
+![13](https://github.com/user-attachments/assets/827fa57c-6f39-4585-aaf9-79f2c83a8dcb)
 
-![14](https://github.com/user-attachments/assets/5222342e-0f8f-470c-be51-241db854cdd7)
+![14](https://github.com/user-attachments/assets/8e1b6256-0983-4c03-b82b-5b0eff86f524)
