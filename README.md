@@ -42,7 +42,6 @@ O **My Weather App 2.0** é um aplicativo móvel desenvolvido com React Native e
 - React Native
 - Expo
 - TypeScript
-- React Navigation
 - Context API
 
 ## Pré-requisitos
