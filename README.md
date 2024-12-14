@@ -146,7 +146,7 @@ yarn start
 
 Emerson Carneiro da Silva - mersiocarneiro87@gmail.com
 
-Link do Projeto: [[https://github.com/seu-usuario/weather-app](https://github.com/seu-usuario/weather-app)](https://github.com/emersoncarneirodasilva/my-weather-app-2.0)
+Link do Projeto: [https://github.com/emersoncarneirodasilva/my-weather-app-2.0](https://github.com/emersoncarneirodasilva/my-weather-app-2.0)
 
 ## Imagens
 
