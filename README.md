@@ -2,7 +2,7 @@
 
 ## Descrição Geral
 
-O **My Weather App 2.0** é um aplicativo móvel desenvolvido com React Native e Expo, que fornece uma experiência rica e intuitiva para visualização de informações meteorológicas.
+**My Weather App 2.0** é um aplicativo móvel desenvolvido com React Native e Expo, que fornece uma experiência rica e intuitiva para visualização de informações meteorológicas.
 
 ## Funcionalidades
 
