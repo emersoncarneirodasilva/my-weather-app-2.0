@@ -55,8 +55,8 @@
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/weather-app.git
-cd weather-app
+git clone https://github.com/emersoncarneirodasilva/my-weather-app-2.0
+cd my-weather-app-2.0
 ```
 
 2. Instale as dependências
