@@ -67,7 +67,7 @@
 1. Clone o repositório
 ```bash
 git clone https://github.com/emersoncarneirodasilva/my-weather-app-2.0.git
-cd weather-app
+cd my-weather-app-2.0
 ```
 
 2. Obtenha sua API Key
@@ -79,7 +79,7 @@ cd weather-app
 - Crie um arquivo `.env` na raiz do projeto
 - Adicione sua API Key:
 ```
-WEATHER_API_KEY=sua_api_key_aqui
+EXPO_PUBLIC_WEATHER_API_KEY=sua_api_key_aqui
 ```
 
 4. Instale as dependências
@@ -144,7 +144,7 @@ yarn start
 
 ## Contato
 
-[Seu Nome] - [Seu Email]
+Emerson Carneiro da Silva - mersiocarneiro87@gmail.com
 
 Link do Projeto: [[https://github.com/seu-usuario/weather-app](https://github.com/seu-usuario/weather-app)](https://github.com/emersoncarneirodasilva/my-weather-app-2.0)
 
